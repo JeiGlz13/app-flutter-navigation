@@ -5,4 +5,6 @@ class Routes {
   static const home = '/home';
   static const login = '/login';
   static const splash = '/splash';
+  static const colorPicker = '/color-picker';
+  static const dialogs = '/dialogs';
 }
